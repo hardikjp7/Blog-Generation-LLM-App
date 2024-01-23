@@ -10,19 +10,25 @@ This Streamlit web application simplifies the process of generating blogs using 
    cd Blog-Generation-LLM-App
    ```
 
-2. **Install Dependencies:**
+2. **Download LLama 2 Model:**
+   Visit the official LLama 2 model page [here](https://ai.meta.com/llama/) and download the "llama-2-7b-chat.ggmlv3.q8_0.bin" file.
+
+3. **Add Model to "models" Folder:**
+   Place the downloaded model file in the "models" folder of this project.
+
+4. **Install Dependencies:**
    Use the following command to install the required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Application:**
+5. **Run the Application:**
    Execute the Streamlit app with the following command:
    ```bash
    streamlit run app.py
    ```
 
-4. **Access the Web App:**
+6. **Access the Web App:**
    Open your web browser and navigate to the provided local address (usually http://localhost:8501).
 
 ## Generating Blogs
