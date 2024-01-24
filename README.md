@@ -6,7 +6,7 @@ This Streamlit web application simplifies the process of generating blogs using 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Blog-Generation-LLM-App.git
+   git clone https://github.com/hardikjp7/Blog-Generation-LLM-App.git
    cd Blog-Generation-LLM-App
    ```
 
